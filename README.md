@@ -1,4 +1,4 @@
-# lLearning Mocha
+# Learning Mocha
 
 This repo just contains some test code of me learning mocha as a testing framework.
 
